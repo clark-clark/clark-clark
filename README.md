@@ -14,6 +14,18 @@ Being a validator takes my commitment a step further. Validators play a critical
 
 ## 🛠️ My Experience and Contributions
 
+### My Guides:
+- **0g**
+    - [Node Setup Guide](https://github.com/clark-clark/my-guides/blob/main/0g/0g-node-guide.md)
+    - [Validator Setup Guide](https://github.com/clark-clark/my-guides/blob/main/0g/0g-validator-guide.md)
+    - [Storage Node Setup Guide](https://github.com/clark-clark/my-guides/blob/main/0g/0g-storage-node-guide.md)
+- **Namada**
+    - [Node Setup Guide](https://github.com/clark-clark/my-guides/blob/main/namada-guide.md)
+- **Side**
+    - [Node Setup Guide](https://github.com/clark-clark/my-guides/blob/main/side-guide.md)
+
+### My Contributions:
+
 1. **Celestia Validator**
 I am an active validator on the Celestia network, where I help maintain the network’s security and efficiency. You can view my validator profile and performance [here](https://celestia.explorers.guru/validator/celestiavaloper1c0s62hyj07s678mfdnqfnm00ca9kk5ag9frrt0). The detailed status of my validator activities is shown in the screenshot below:
 ![celestia image](https://raw.githubusercontent.com/clark-clark/clark-clark/main/celestia-clark.png)
