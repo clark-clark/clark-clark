@@ -15,14 +15,13 @@ Being a validator takes my commitment a step further. Validators play a critical
 ## 🛠️ My Experience and Contributions
 
 ### My Guides:
-- **0g**
-    - [Node Setup Guide](https://github.com/clark-clark/my-guides/blob/main/0g/0g-node-guide.md)
-    - [Validator Setup Guide](https://github.com/clark-clark/my-guides/blob/main/0g/0g-validator-guide.md)
-    - [Storage Node Setup Guide](https://github.com/clark-clark/my-guides/blob/main/0g/0g-storage-node-guide.md)
+
 - **Namada**
     - [Node Setup Guide](https://github.com/clark-clark/my-guides/blob/main/namada-guide.md)
 - **Side**
     - [Node Setup Guide](https://github.com/clark-clark/my-guides/blob/main/side-guide.md)
+- **Lucidity**
+    - [Node Setup Guide](https://github.com/clark-clark/my-guides/blob/main/Lucidity.md)
 
 ### My Contributions:
 
