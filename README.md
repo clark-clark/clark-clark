@@ -26,6 +26,8 @@ Being a validator takes my commitment a step further. Validators play a critical
     - [Node Setup Guide](https://github.com/clark-clark/my-guides/blob/main/Bahamut.md)
 - **Mitosis**
     - [Node Setup Guide](https://github.com/clark-clark/my-guides/blob/main/Mitosis.md)
+- **Xion**
+    - [Node Setup Guide](https://github.com/clark-clark/xionnode)
 
 ### My Contributions:
 
